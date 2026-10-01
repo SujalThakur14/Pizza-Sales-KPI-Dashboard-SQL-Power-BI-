@@ -174,3 +174,4 @@ Page 1: Sales Overview
 https://github.com/SujalThakur14/Pizza-Sales-KPI-Dashboard-SQL-Power-BI-/blob/main/Page%201.png
 
 Page 2: Best & Worst Sellers
+https://github.com/SujalThakur14/Pizza-Sales-KPI-Dashboard-SQL-Power-BI-/blob/main/Page%202.png
